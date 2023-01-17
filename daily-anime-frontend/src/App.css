@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.title{
+  margin-bottom: 100px;
+  font-size: 7vw;
+}
+
+.animeList {
+  display: flex;
+  overflow-x: auto;
+  
+}
+.genre {
+  text-align: center;
+}
+.anime{
+ margin: 20px;
+}
+.anime-img{
+  width: 30vw;
+  height: 50vw;
+}
